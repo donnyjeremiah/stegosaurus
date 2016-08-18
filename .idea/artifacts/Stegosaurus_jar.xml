@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Stegosaurus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Stegosaurus_jar</output-path>
+    <root id="archive" name="Stegosaurus.jar">
+      <element id="module-output" name="Stegosaurus" />
+    </root>
+  </artifact>
+</component>
